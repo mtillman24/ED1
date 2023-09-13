@@ -1,4 +1,4 @@
 # ED1
-materials for engineering and design 1  
+Materials for Engineering and Design 1 2023-24  
 
 https://mtillman24.github.io
