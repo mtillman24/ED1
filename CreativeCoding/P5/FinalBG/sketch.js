@@ -3,7 +3,7 @@
 let gif;
 
 function preload (){
-  gif = loadImage ('assets/MayaGIF.gif');
+  gif = loadImage ('assets/PINKFinal.gif');
 }
 
 function setup() {
