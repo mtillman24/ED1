@@ -15,7 +15,7 @@ img {
 }
 
 h1{
-  color: black;
+  color: yellow;
      position: absolute;
      left: 50%;
      transform: translateX(-50%) translateY(-50%);
