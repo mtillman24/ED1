@@ -15,18 +15,17 @@ img {
 }
 
 h1{
-  color: black;
+  color: white;
      position: absolute;
      left: 50%;
      transform: translateX(-50%) translateY(-50%);
      text-align: center;
      top: 1vw;
      font-size:3vw;
-	display: inline; background: white;
+	
 }
 
 h3 {
-display: incline; background: white;
 font-size:2vw;
 
 }
